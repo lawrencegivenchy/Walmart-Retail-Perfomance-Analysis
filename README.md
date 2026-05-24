@@ -96,5 +96,5 @@ Key techniques used:
 
 ### SQL Script
 
-📄 [View Full SQL Script](Walmart_Retail_Performance_Analysis_SQL.sql)
+📄 [View Full SQL Script](Walmart_Retail_Perfomance_Analysis_SQL.sql)
 
