@@ -64,18 +64,20 @@ The Power BI application utilizes a modern, left-hand app-style navigation menu 
 
 ---
 
-## 📸 Dashboard Screenshots
-### 1. Sales Overview
-*Add your Page 1 Image Link here*
+## 🖥️ Dashboard Architecture & Visuals
+The complete interactive Power BI application is structured across four custom application-style pages. 
 
-### 2. Customer & Loyalty Analysis
-*Add your Page 2 Image Link here*
+To view the full high-resolution layout and pixel-perfect design specifications for all pages, you can access the compiled dashboard documentation file directly:
 
-### 3. Operations & Inventory
-*Add your Page 3 Image Link here*
+🔗 **[View / Download Full Dashboard PDF](./Walmart_Retail_Perfomance_Analysis_Dash.pdf)**
 
-### 4. Executive Summary
-*Add your Page 4 Image Link here*
+---
+
+### 📄 Document Page Index
+1. **Page 1: Sales Overview** — High-level operational revenue, geographic store distributions, category splits, and chronological trend lines.
+2. **Page 2: Customer & Loyalty Analysis** — Demographic grids, purchasing volume segments, payment method preferences, and promotion responses.
+3. **Page 3: Operations & Inventory** — Dual-axis actual vs. forecasted demand tracking, inventory level baselines, supplier lead times, and stockout impacts.
+4. **Page 4: Executive Summary** — Strategic data narratives and prescriptive recommendations explicitly framed for stakeholders.
 
 ---
 
