@@ -83,7 +83,7 @@ To view the full high-resolution layout and pixel-perfect design specifications 
 
 ## 💻 Core SQL Script Highlights
 
-'''SQL
+```sql
 -- ============================================================================
 -- PROJECT: Walmart Retail Performance Analysis
 -- ENVIRONMENT: Databricks SQL (Delta Lake)
@@ -277,4 +277,4 @@ SELECT
   ROUND(AVG(actual_demand), 1) AS avg_actual_demand
 FROM walmart_retail.walmart_retail.walmart_transactions
 GROUP BY stockout_indicator, category
-ORDER BY stockout_indicator DESC, category;'''
+ORDER BY stockout_indicator DESC, category;
